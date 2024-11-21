@@ -1,0 +1,80 @@
+{
+    "__typename": "JourneyFramework",
+    "id": "1dfa868d-524c-442e-856f-f035175fed20",
+    "title": "Domain Framework",
+    "journeyBoards": [
+      {
+        "__typename": "JourneyBoard",
+        "id": "baad3bd3-67c1-4473-a75a-e5f904b87157",
+        "title": "",
+        "journeys": [
+          {
+            "__typename": "Journey",
+            "id": "eb1d0430-9cf2-4f3c-b549-96dc23b32098",
+            "title": "Solving the right customer problem in the right way",
+            "opportunities": [
+              {
+                "__typename": "Opportunity",
+                "id": "6790b13a-24f6-4cf3-9fd2-bb1822f2fa4c",
+                "title": "Journey Mapping Framework"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__typename": "JourneyBoard",
+        "id": "5270fa5e-677b-4845-8214-2e31d5deedde",
+        "title": "Product selection",
+        "journeys": [
+          {
+            "__typename": "Journey",
+            "id": "01249223-9d0f-409b-bbb1-35c72fdf1e4d",
+            "title": "Marketing funnel",
+            "opportunities": [
+              {
+                "__typename": "Opportunity",
+                "id": "049faa4f-8c0f-4b8d-980a-09bd3344114b",
+                "title": "Journey Mapping Framework"
+              },
+              {
+                "__typename": "Opportunity",
+                "id": "28ab2c46-ad22-4c21-8e7b-63ebb90c69e2",
+                "title": "Aantrekkingskracht"
+              }
+            ]
+          },
+          {
+            "__typename": "Journey",
+            "id": "eb1d0430-9cf2-4f3c-b549-96dc23b32098",
+            "title": "Solving the right customer problem in the right way",
+            "opportunities": [
+              {
+                "__typename": "Opportunity",
+                "id": "6790b13a-24f6-4cf3-9fd2-bb1822f2fa4c",
+                "title": "Journey Mapping Framework"
+              }
+            ]
+          },
+          {
+            "__typename": "Journey",
+            "id": "9710cc55-13e6-478f-be92-7ece5b44241c",
+            "title": "Map and maintain journeys",
+            "opportunities": [
+              {
+                "__typename": "Opportunity",
+                "id": "3b2bd8fd-fb93-4817-913a-d9ed75e12f4a",
+                "title": "Automate: follow-up"
+              },
+              {
+                "__typename": "Opportunity",
+                "id": "b1dffbde-b1c3-4561-be0c-94f8a45bb557",
+                "title": "Publish: public roadmap"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
