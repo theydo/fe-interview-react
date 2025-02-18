@@ -1,9 +1,12 @@
 import { Home } from './pages/Home'
 import './App.css'
+import { BrowserRouter } from "react-router";
 
 function App() {
   return (
-    <Home />
+    <BrowserRouter>
+      <Home />
+    </BrowserRouter>
   )
 }
 
